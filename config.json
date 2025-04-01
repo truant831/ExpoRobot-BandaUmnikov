@@ -1,0 +1,33 @@
+{
+    "pos_card_center": [
+        0,
+        210,
+        0
+    ],
+    "pos_camera_home": [
+        0,
+        160,
+        180
+    ],
+    "xyz_robots_card_down": [
+        -210,
+        0,
+        10
+    ],
+    "xyz_human_card_down": [
+        210,
+        0,
+        30
+    ],
+    "pos_camera_home_start": [
+        -150,
+        0,
+        180
+    ],
+    "pos_camera_home_fuman": [
+        150,
+        0,
+        180
+    ],
+    "z_step": 0.45
+}
